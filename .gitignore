@@ -63,3 +63,8 @@ tools/**
 artifacts/**
 artifacts_old/**
 /src/.ionide
+/Sample.Consumer/appsettings.json
+/src/Sample.Worker/appsettings.json
+/src/Sample.Consumer/appsettings.json
+/src/Sample.Worker/appsettings.json
+/src/Sample.Worker/appsettings.json
